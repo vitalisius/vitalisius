@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitalisius
 - 👀 I’m interested in data analysis and operations management
-- 🌱 I’m currently helping https://github.com/Claviz team grow and produce valuable products 
+- 🌱 I’m currently helping @Claviz team grow and produce valuable products 
 - 📫 Reach me on Telegram at @vitalisius
 
 <!---
